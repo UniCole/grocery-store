@@ -1,0 +1,71 @@
+body {
+    background-image: url(/assets/shutterstock_561508699.0.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 105%;
+    background-position: center;
+    font-family: Segoe UI Variable Small Light;
+}
+
+form {
+    width: 250px;
+    margin: auto;
+    text-align: left;
+    padding: 10px;
+    backdrop-filter: blur(15px);
+}
+
+input,
+button {
+    width: 100%;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+
+table {
+    width: 50% !important;
+    margin: 30px auto;
+    backdrop-filter: blur(15px);
+}
+
+table,
+th {
+    border-collapse: collapse;
+    padding: 5px;
+    text-align: center;
+    font-family: Segoe UI Variable Small Light;
+    font-size: 21px;
+    /* color: rgb(32, 218, 228); */
+    -webkit-text-stroke: 1px  rgb(32, 218, 228);
+}
+
+td {
+    font-size: 18px;
+}
+
+h1 {
+    font-family: 'Bowlby One SC', cursive;
+    text-align: center;
+    font-size: 65px;
+    font-weight: bolder;
+    color: rgb(32, 218, 228);
+    margin-top: 10px;
+}
+
+h3 {
+    padding: 5px;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    color: rgb(21, 152, 192);
+    font-size: 45px;
+}
+
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    margin: .4rem 0;
+}
