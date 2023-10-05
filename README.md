@@ -1,5 +1,5 @@
 # Grocery store
-## First exam from "John Bryce" college based on: HTML, CSS, Javascript
+## The project based on: HTML, CSS, Javascript
 
 ### Project requirements:
 ##### Live server plugin for VScode
